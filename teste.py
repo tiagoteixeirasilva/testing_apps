@@ -18,18 +18,7 @@ import pandas_profiling
 from pandas_profiling import ProfileReport
 import streamlit as st
 
-
-# In[2]:
-
-
-st.write("""
-# My first app
-Hello *world!*
-""")
-
-
-# In[ ]:
-
+print("Hi")
 
 
 
